@@ -1,5 +1,5 @@
 ---
 layout: post
-author: aravind
+author: draravind
 titel: "aravind's first post!"
 ---
